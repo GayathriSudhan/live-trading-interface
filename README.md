@@ -111,6 +111,7 @@ This ensures each WebSocket event works against the latest state and avoids stal
 
 ## Possible improvements with more time
 
+- Disconnect status change in connection Badge
 - Real WebSocket backend
 - Reconnection with exponential backoff
 - Order history
